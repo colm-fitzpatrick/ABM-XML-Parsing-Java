@@ -7,7 +7,12 @@ ABM Developer Technical Questions 1 &amp; 2 Using Java.
 
 # Deployment Instructions
 * Download this repository as ZIP and extract the contents.
-* Open Command Prompt and navigate to the ABM-XML-Parsing-CS-master\bin\Debug\netcoreapp2.1 directory.
-* Use the "dotnet ABM-XML-Parsing.dll" command to run the program.
+* Open Command Prompt and navigate to the ABM-XML-Parsing-Java-master\ABM-XML-Parsing-Java-master directory.
+* Use the "java -jar ABM-XML-Parsing-Java.jar" command to run the program.
 
-![ScreenShot](Data/xml-parse-cs-step1.png)
+# Incompatible Java Version Instruction
+* Import the project into your favourite IDE or compiler.
+* Compile and export the program as a runnable JAR file.
+* Complete above steps.
+
+![ScreenShot](data/xml-parse-java-step1.png)
