@@ -10,9 +10,9 @@ ABM Developer Technical Questions 1 &amp; 2 Using Java.
 * Open Command Prompt and navigate to the ABM-XML-Parsing-Java-master\ABM-XML-Parsing-Java-master directory.
 * Use the "java -jar ABM-XML-Parsing-Java.jar" command to run the program.
 
+![ScreenShot](data/xml-parse-java-step1.png)
+
 # Incompatible Java Version Instruction
 * Import the project into your favourite IDE or compiler.
 * Compile and export the program as a runnable JAR file.
 * Complete above steps.
-
-![ScreenShot](data/xml-parse-java-step1.png)
